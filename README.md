@@ -3,7 +3,9 @@
 Conducted an in-depth analysis using the Capital Asset Pricing Model (CAPM) to evaluate the risk and return relationship of various assets within a portfolio. 
 
 ⚙️ Tool : Python ,libraries such as Pandas, NumPy and Plotly
+
 💻 Frameworks : Streamlit
+
 🗂️ Source Dataset : Yahoo Finance
 
 ## Objective:
@@ -22,9 +24,13 @@ Beta
 It is a measure of a stock's risk (volatility of returns) reflected by measuring the fluctuation of its price changes relative to the overall market.
 
 ß = 0: No Market Sensitivity
+
 ß < 1: Low Market Sensitivity
+
 ß = 1: Same as Market (Neutral)
+
 ß > 1: High Market Sensitivity
+
 ß < 0: Negative Market Sensitivity
 
 ## Portfolio Optimization:
